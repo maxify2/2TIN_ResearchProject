@@ -48,7 +48,8 @@ INSERT INTO `employees` (`emp_no`, `first_name`, `last_name`) VALUES
 (1004, 'Tim', 'Dupont'),
 (1005, 'David', 'Parren'),
 (1006, 'Gert', 'Van Waeyenberg'),
-(1007, 'Maxim','Slootmaekers');
+(1007, 'Maxim','Slootmaekers'),
+(1008, 'Jarne','Meekers');
 
 --
 -- Indexen voor geëxporteerde tabellen
